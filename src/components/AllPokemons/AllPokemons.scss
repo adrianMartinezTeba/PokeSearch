@@ -1,0 +1,16 @@
+.div-container{
+    display: flex;
+    flex-direction: column;
+    max-width: 100vw;
+    div{
+        display: flex;
+        max-width: 100vw;
+        flex-wrap: wrap;
+        p{
+            padding: 10px;
+            margin: 3px;
+            width: 30vw;
+        }
+    }
+    
+}

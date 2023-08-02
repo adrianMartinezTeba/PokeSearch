@@ -1,10 +1,10 @@
 import React from 'react'
 import './Home.scss'
-import NavBar from '../NavBar/NavBar'
+import AllPokemons from '../AllPokemons/AllPokemons'
 const Home = () => {
   return (
     <div>
-     <NavBar/>
+     <AllPokemons/>
     </div>
   )
 }
